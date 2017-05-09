@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dd01a66-604a-4369-b34a-1280b89b8723" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/._bootstrap-prestructure.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/bootstrap-prestructure_files/._100x100" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/bootstrap-prestructure_files/._1140x350" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/bootstrap-prestructure_files/._555x300" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure_files/100x100" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure_files/1140x350" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure_files/555x300" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Arsenal-v-Manchester-United-Premier-League.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arsenal-v-burnley-premier-league-458229538-56a020afe94c8.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ArsenalMan.jpg" afterPath="$PROJECT_DIR$/images/ArsenalMan.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/zhaka.jpg" afterPath="$PROJECT_DIR$/images/zhaka.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +19,18 @@
       <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="43" column="76" lean-forward="true" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+            <state relative-caret-position="650">
+              <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -548,15 +547,15 @@
       <option name="presentableId" value="Default" />
       <updated>1494133002716</updated>
       <workItem from="1494133004523" duration="4432000" />
-      <workItem from="1494212898429" duration="9505000" />
+      <workItem from="1494212898429" duration="10815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13937000" />
+    <option name="totallyTimeSpent" value="15247000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3844" height="2092" extended-state="0" />
+    <frame x="-16" y="-16" width="3844" height="2092" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -629,10 +628,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="43" column="76" lean-forward="true" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+        <state relative-caret-position="650">
+          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
           <folding />
         </state>
       </provider>
