@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dd01a66-604a-4369-b34a-1280b89b8723" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-prestructure.htm" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/._bootstrap-prestructure.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/bootstrap-prestructure_files/._100x100" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/bootstrap-prestructure_files/._1140x350" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/__MACOSX/bootstrap-prestructure/bootstrap-prestructure_files/._555x300" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure_files/100x100" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure_files/1140x350" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure_files/555x300" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Arsenal-v-Manchester-United-Premier-League.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arsenal-v-burnley-premier-league-458229538-56a020afe94c8.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm" afterPath="$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,28 +30,8 @@
       <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-prestructure.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-prestructure.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-prestructure.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="640">
+              <caret line="43" column="76" lean-forward="true" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -111,38 +100,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Portfolio-Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio-Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio-Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-prestructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-prestructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio-Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio-Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-prestructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -591,12 +548,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494133002716</updated>
       <workItem from="1494133004523" duration="4432000" />
-      <workItem from="1494212898429" duration="6266000" />
+      <workItem from="1494212898429" duration="9505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10698000" />
+    <option name="totallyTimeSpent" value="13937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3844" height="2092" extended-state="0" />
@@ -674,8 +631,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="640">
+          <caret line="43" column="76" lean-forward="true" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
           <folding />
         </state>
       </provider>
