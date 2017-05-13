@@ -3,27 +3,46 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
 }
-
-h1
-{
+h1 {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
     font-size: 50px;
-
 }
-
-h2
-{
-color:#7d97ad;
+h2 {
+    color: #7d97ad;
 }
-
-h3
-{
+h3 {
     font-size: 30px;
 }
-
-hr
-{
+hr {
     height: 2px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #111 (black) on hover */
 
+li a:hover {
+    background-color: #111;
+}
+@media screen and (max-width: 600px) {
+    ul.li.right,
+    ul. li {
+        float: none;
+    }
 }
