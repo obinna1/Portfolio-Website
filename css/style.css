@@ -20,7 +20,11 @@ hr {
 ul {
     list-style-type: none;
     margin: 0;
+<<<<<<< HEAD
     padding: -10px;
+=======
+    padding: 0;
+>>>>>>> 23b7486e75bd10f7e60ba98da664efe063dad8c7
     overflow: hidden;
     background-color: #333;
     width: 100%;
@@ -39,5 +43,14 @@ li a {
 
 li a:hover {
     background-color: #111;
+<<<<<<< HEAD
+=======
+}
+@media screen and (max-width: 600px) {
+    ul.li.right,
+    ul. li {
+        float: none;
+    }
+>>>>>>> 23b7486e75bd10f7e60ba98da664efe063dad8c7
 }
 
