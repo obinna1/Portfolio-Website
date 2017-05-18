@@ -1,6 +1,6 @@
 # Portfolio-Website
  This project will display a simple website with 4 quality images, a title and logo.
-Bootstrap was incorprated into the project for better grid system and layout.
+Bootstrap was incorporated into the project for better grid system and layout.
 I used intellij to write the codes in html and css. 
 
 In order to run this project, download the zip and extract to any directory of your choice.
